@@ -30,7 +30,7 @@ An interactive Sales Dashboard built in Microsoft Excel using Pivot Tables, Char
 
 ##  Dashboard Insights
 
-<img src="[https://github.com/hitesh9595/Excel_DashBoard/blob/main/Excel%20Dashboard.png?raw=true](https://github.com/hitesh9595/Excel_DashBoard/blob/main/Excel%20Dashboard.png) ">
+<img width="787" height="425" alt="Excel Dashboard" src="https://github.com/user-attachments/assets/34309ace-accb-4797-a156-5ea0576bad7a" />
 
 The dashboard provides insights into:
 
